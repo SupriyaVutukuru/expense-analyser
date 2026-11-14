@@ -1,0 +1,18 @@
+{
+  "name": "expense_analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyser.js",
+  "scripts": {
+    "start": "node analyser.js",
+    "warmup": "node Warmup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
